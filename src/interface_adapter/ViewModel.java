@@ -9,7 +9,7 @@ public abstract class ViewModel {
     public ViewModel(String viewName) {
         this.viewName = viewName;
     }
-    public String getViewName() {
+    public  String getViewName() {
         return this.viewName;
     }
 
